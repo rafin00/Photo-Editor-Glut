@@ -21,7 +21,7 @@ Functionalities:
 9. Grayscale to Color and vice-versa convertion
 
 Flaws :
-1. When the window is resized the mouse con-ordinates do not math with the texture co-ordinate hence resizing is set off
+1. When the window is resized the mouse con-ordinates do not match with the texture co-ordinate hence resizing is set off
 2. While doing Brightness and color adjustments some parts of the image gets burned
 3. Save Image function doesn't work
 4. Some BMP(24bit) images like the yts image("yts.bmp") Doesn't show its original colors in the window
