@@ -2,7 +2,7 @@
 Photo Editor Using Glut
 
 P.S : 
-1 .Window size can not be resized(cause in Flaws(1) section). Always set to 700x500 in handleReshape() function.
+1. Window size can not be resized(cause in Flaws(1) section). Always set to 700x500 in handleReshape() function.
 2. To switch between functionalities press Right Mouse Button
 3. Only loads BMP(24 bit) images
 4. While loading some images of hign resulation(yts.bmp) you may need to Zoom in to see its full view as window resizing is turned off
