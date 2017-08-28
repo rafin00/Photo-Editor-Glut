@@ -13,7 +13,8 @@ Functionalities:
 7. Zoom in/out(scale)
 8. Draw using pencil
 7. Draw objects(lines,rectangles,line strips) by hold and press mouse buttons just like in ms paint
-8. Grayscale to Color and vice-versa convertion
+8. Change colors while drawing from mouse right button menu
+9. Grayscale to Color and vice-versa convertion
 
 Flaws :
 1. When the window is resized the mouse con-ordinates do not math with the texture co-ordinate hence resizing is set off
