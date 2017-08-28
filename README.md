@@ -1,6 +1,8 @@
 # Photo-Editor-Glut(C++)
 Photo Editor Using Glut(C++)
 
+<b> PLEASE USE MICROSOFT VISUAL STUDIO (may not run in code-blocks) </b>
+
 P.S : 
 1. Window size can not be resized(cause in Flaws(1) section). Always set to 700x500 in handleReshape() function.
 2. To switch between functionalities press Right Mouse Button
