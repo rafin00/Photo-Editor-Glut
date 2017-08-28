@@ -1,5 +1,5 @@
-# Photo-Editor-Glut
-Photo Editor Using Glut
+# Photo-Editor-Glut(C++)
+Photo Editor Using Glut(C++)
 
 P.S : 
 1. Window size can not be resized(cause in Flaws(1) section). Always set to 700x500 in handleReshape() function.
