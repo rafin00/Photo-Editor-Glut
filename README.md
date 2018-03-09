@@ -1,3 +1,6 @@
+# How to run
+Run this by opening the file named 'Source.cpp' in Visual Studio(recomended) or CodeBlocks or equivalent as a cpp file.
+
 # Photo-Editor-Glut(C++)
 Photo Editor Using Glut(C++)
 
