@@ -1,5 +1,7 @@
 # How to run
-Run this by opening the file named 'Source.cpp' in Visual Studio(recomended) or CodeBlocks or equivalent as a cpp file.
+
+Run this by opening the file named 'Source.cpp' in Visual Studio(recomended) as a project. Make sure the image files(bag1.bmp,ts.bmp,yts.bmp) are in the same as folder where the project is created and also make sure glut library/dll files are installed in visual studio.
+How to setup glut openGl in visual studio 2012 can be found [a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 # Photo-Editor-Glut(C++)
 Photo Editor Using Glut(C++)
